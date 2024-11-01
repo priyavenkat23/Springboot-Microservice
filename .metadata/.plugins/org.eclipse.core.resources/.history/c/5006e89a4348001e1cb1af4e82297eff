@@ -1,0 +1,5 @@
+package com.codepractice.departmentservice.controller;
+
+public class DepartmentController {
+
+}
